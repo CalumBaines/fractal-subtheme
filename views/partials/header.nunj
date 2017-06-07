@@ -1,0 +1,4 @@
+<div class="Header">
+    <a href="{{ path('/') }}" class="Header-logo"> <img src="{{ path(frctl.get('project.logo')) }}" /> </a>
+    <a href="{{ path('/') }}" class="Header-title" data-pjax>{{ frctl.get('project.title') | default('Component Library') }}</a>
+</div>

@@ -1,14 +1,54 @@
 {
-    "name": "quba-theme",
-    "version": "1.0.0",
-    "description": "fractal theme based on Mandelbrot",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "@frctl/mandelbrot": "^1.0.0"
-    }
+  "_args": [
+    [
+      {
+        "raw": "quba-theme",
+        "scope": null,
+        "escapedName": "quba-theme",
+        "name": null,
+        "rawSpec": "quba-theme",
+        "spec": "/Users/Calum/Documents/sites/quba-framework/quba-theme",
+        "type": "directory"
+      },
+      "/Users/Calum/Documents/sites/quba-framework"
+    ]
+  ],
+  "_from": "quba-theme",
+  "_id": "quba-theme@1.0.0",
+  "_inCache": true,
+  "_location": "/quba-theme",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "quba-theme",
+    "scope": null,
+    "escapedName": "quba-theme",
+    "name": null,
+    "rawSpec": "quba-theme",
+    "spec": "/Users/Calum/Documents/sites/quba-framework/quba-theme",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "file:quba-theme",
+  "_shasum": "e9abd908d1752961ee62feea0d159c12f24f4980",
+  "_shrinkwrap": null,
+  "_spec": "quba-theme",
+  "_where": "/Users/Calum/Documents/sites/quba-framework",
+  "author": "",
+  "dependencies": {
+    "@frctl/mandelbrot": "^1.0.0"
+  },
+  "description": "fractal theme based on Mandelbrot",
+  "devDependencies": {},
+  "license": "ISC",
+  "main": "index.js",
+  "name": "quba-theme",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }

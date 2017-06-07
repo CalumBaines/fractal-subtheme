@@ -8,7 +8,8 @@ const mandelbrot = require('@frctl/mandelbrot');
  */
 const subTheme = mandelbrot({
     skin: "fuchsia",
-    styles: ['default', '/quba-theme/tweaks.css'] // link to the default stylesheet followed by a custom one
+    styles: ['default', '/quba-theme/tweaks.css'], // link to the default stylesheet followed by a custom one
+    scripts: ['default', '/quba-theme/tweaks.js']
 });
 
 /*
